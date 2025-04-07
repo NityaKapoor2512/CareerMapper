@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as palm
 
 # Configure the API key
-palm.configure(api_key="AIzaSyAYSUBWBve3AgCfrMZ1NEgsgbBGvk4mG0Q")
+palm.configure(api_key="enter your key here")
 
 # Define the model to use
 model_name = "models/text-bison-001"
